@@ -134,6 +134,7 @@ function Login() {
           flexDirection: { xs: "column", md: "row" },
           borderRadius: "10px",
           border: "3px solid #51e2f5",
+          backgroundColor: "#fff",
         }}
       >
         <Box
